@@ -7,6 +7,7 @@
 <li>How to manipulate servo motors.</li>
 <li>How to manipulate and get output from rotary encoder. Make turns smoother.</li>
 <br>
+<a href="https://gyazo.com/c0bf58b61971d8a7c56691d7f044cca6"><img src="https://i.gyazo.com/c0bf58b61971d8a7c56691d7f044cca6.png" alt="Image from Gyazo" width="507"/></a>
 <br>
 <br>
 <p>I don't think anyone would but feel free to use the source code as long as you do not remove the comment block at the top mentioning author's name.</p>

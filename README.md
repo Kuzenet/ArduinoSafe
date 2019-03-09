@@ -6,6 +6,7 @@
 <li>How to manipulate buzzer with frequency and duration.</li>
 <li>How to manipulate servo motors.</li>
 <li>How to manipulate and get output from rotary encoder. Make turns smoother.</li>
+<li>Using a shift register.</li>
 <br>
 <a href="https://gyazo.com/c0bf58b61971d8a7c56691d7f044cca6"><img src="https://i.gyazo.com/c0bf58b61971d8a7c56691d7f044cca6.png" alt="Image from Gyazo" width="507"/></a>
 <br>

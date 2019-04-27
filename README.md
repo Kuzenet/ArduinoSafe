@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Version-1.0-brightgreen.svg">
+
 <h2>Project Safe - Arduino</h2>
 <p>This project is based on arduino uno. You can turn the rotary encoder to select numbers and each time you press the encoder's button it will save the digit and store it in an array of integers. It will check it with the saved admin code. If the passcode is correct according to the admin code, the safe will open and wait for your input. At this point you can either press the rotary encoder button to lock it back or you can press the push button to enter a new admin passcode. This will save the code and close the safe back. Also, save the new admin passcode for sure! If the passcode you have entered is wrong a short Mario soundtrack will play from the buzzer as an alarm. I just didn't place a boring alarm sound. Also, each click gives a feedback with the buzzer that the code was entered or button was pressed to enhance the user experience.
 <br>

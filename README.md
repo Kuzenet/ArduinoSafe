@@ -11,7 +11,4 @@
 <li>Using a shift register.</li>
 <br>
 <a href="https://gyazo.com/c0bf58b61971d8a7c56691d7f044cca6"><img src="https://i.gyazo.com/c0bf58b61971d8a7c56691d7f044cca6.png" alt="Image from Gyazo" width="507"/></a>
-<br>
-<br>
-<p>I don't think anyone would but feel free to use the source code as long as you do not remove the comment block at the top mentioning author's name.</p>
-<p>Please note that this was a very easy project and I never thought I would post this online.</p>
+
